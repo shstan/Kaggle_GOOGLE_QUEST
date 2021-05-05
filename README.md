@@ -1,5 +1,6 @@
 # Google QUEST Experiments
 
+Part of a NLP course final project.
 Exploration of various Transformer networks and pretrained weights for sentence-based regression.
 - BERT
 - DistilBERT
